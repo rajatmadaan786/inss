@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.message{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+	margin-top: 10px;
+	text-shadow: 2px 2px 2px #ccc;
+}
